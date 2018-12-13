@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xfdf>
+    <fields>
+        <field name="SUBMIT_BTN"/>
+        <field name="TXT_NAME">
+            <value>this is a test</value>
+        </field>
+        <field name="TXT_TITLE">
+            <value-richtext>this is a test title</value-richtext>
+        </field>
+    </fields>
+    <ids original="A320CAE559DFAFFCF54CBD018BF11754" modified="FC2561F8F7FA614ABCB4FFB31416209A"/>
+</xfdf>

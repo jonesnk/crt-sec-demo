@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.10/2.0.0/spark-catalyst_2.10-2.0.0.jar!/org/apache/spark/sql/catalyst/expressions/codegen/UnsafeRowWriter.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/2.0.0/spark-sql_2.10-2.0.0.jar!/org/apache/spark/sql/DataFrameWriter.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/StartStopEc2Manager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/StartStopEc2Speechlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/StartStopEc2SpeechletRequestStreamHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/TestInstance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/customSlotTypes/LIST_OF_ACTIONS">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/customSlotTypes/LIST_OF_INSTANCES">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/speechAssets/IntentSchema.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/speechAssets/SampleUtterances.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/ec2startstop/speechAssets/test.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/historybuff/HistoryBuffSpeechlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alexa-skills-kit-java/samples/src/main/java/tidepooler/TidePoolerSpeechlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/books.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cars.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/freddiemac/demo/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/freddiemac/demo/SparkXmlDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/freddiemac/demo/TestBed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/freddiemac/demo/loans.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/testing-13bf9f4d-d976-4b66-a49f-360e860e02b1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/transformed-testing-13bf9f4d-d976-4b66-a49f-360e860e02b1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xml-formatted">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../demo-webapp/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../demo-webapp/src/main/java/com/jonesnk/org/util/DBUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/document.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/api/ApiController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/model/Document.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/model/Field.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/model/Fields.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/util/StaXParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/util/StaxEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/util/StaxWriter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/util/TestDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/util/TestField.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/util/TestRead.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/src/main/java/demo/util/TestWrite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/testing-13bf9f4d-d976-4b66-a49f-360e860e02b1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/testing.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-rest-demo/transformed-testing-13bf9f4d-d976-4b66-a49f-360e860e02b1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
